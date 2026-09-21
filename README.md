@@ -74,7 +74,7 @@ By the end of this course, students will be able to:
 ## Development Tools
 
 - Visual Studio Code
-- XAMPP / Laragon
+- LAMP
 - phpMyAdmin
 - Git & GitHub
 
