@@ -1,0 +1,15 @@
+# What is $_POST is used for?
+* $_POST is a PHP superglobal array that stores form data submitted via the POST method. When a user fills out an HTML form with method="post" and clicks submit, all the form input values are automatically collected and made available in the $_POST array on the server side.
+---
+# What is include used for?
+* Include is a PHP statement that loads and executes code from another PHP file into the current file. It's used to reuse code and keep your project organized by splitting it into multiple files.
+---
+# What is static keyword inside function do?
+* Static inside a function makes a variable retain its value between function calls. Instead of being recreated every time the function runs, a static variable keeps its previous value.
+---
+# What is the difference between global and local variables?
+* Global variables are accessible everywhere in your code, while local variables only exist within the specific scope where they're defined (like inside a function).
+---
+# What is the difference between require and require_once?
+* Require loads and executes a file every time it's called, while require_once loads and executes a file only the first time — subsequent calls are ignored.
+---
