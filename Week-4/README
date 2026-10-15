@@ -11,5 +11,5 @@
 * Global variables are accessible everywhere in your code, while local variables only exist within the specific scope where they're defined (like inside a function).
 ---
 # What is the difference between require and require_once?
+
 * Require loads and executes a file every time it's called, while require_once loads and executes a file only the first time — subsequent calls are ignored.
----
